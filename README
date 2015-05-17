@@ -1,5 +1,6 @@
 README
 ------
+import from https://code.google.com/p/simdrast/
 
 SimdRast: A SIMD-efficient CPU rasterization pipeline optimized for rendering a sparse set of pixels in high quality (16 samples per pixel). It can be seen as a starting point for hybrid GPU/CPU rendering.
 
